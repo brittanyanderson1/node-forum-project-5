@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Brittany Anderson",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-nodemon": "^2.5.0",
+    "inject": "^1.0.0beta2",
+    "wiredep": "^4.0.0"
+  }
+}

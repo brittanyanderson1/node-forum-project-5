@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Brittany Anderson"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
